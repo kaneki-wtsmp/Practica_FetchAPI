@@ -1,0 +1,24 @@
+{
+  "name": "practica_fetchapi",
+  "version": "1.0.0",
+  "description": "Aprender a realizar llamadas HTTP desde el navegador hacia una API REST utilizando `fetch()` en JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaneki-wtsmp/Practica_FetchAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kaneki-wtsmp/Practica_FetchAPI/issues"
+  },
+  "homepage": "https://github.com/kaneki-wtsmp/Practica_FetchAPI#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
